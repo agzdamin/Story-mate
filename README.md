@@ -39,9 +39,13 @@ The project focuses on creativity, entertainment, and AI-assisted social interac
 
 ---
 
-## 👤 My Role in the Project
+## 👤 Team & My Role
 
-Story-Mate was developed by a **3-person team**.
+This project was developed by a **3-person team** in cooperation with a university and the company **[team neusta](https://www.team-neusta.de/)**:
+
+- **Timo Schuhmann**
+- **Lars Hurrelbrink**
+- **Me**
 
 As I did not have prior experience in mobile application development, my main responsibility was building the **backend web application** and API layer. My contributions included:
 
@@ -61,10 +65,16 @@ During this project, I also gained hands-on experience with:
 
 ## 🎬 Demo Video
 
-A short introduction video of Story-Mate was created by one of the team members,  
-**Lars Hurrelbrink**, and is included in this repository:
+A short introduction video of Story-Mate is included in this repository:
 
 [Watch the demo](./story-mate-demo.MP4)
+
+---
+
+## 🚀 Project Status
+
+- Prototype / MVP
+- Focused on validating the idea and integrating AI-driven chat features
 
 ---
 
